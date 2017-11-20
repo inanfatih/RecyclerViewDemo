@@ -5,7 +5,7 @@
     <color name="colorAccent">#80d8FF</color>
     <color name="colorWindowBackground">#FAFAFA</color>
     <color name="RED">#FF0000</color>
-    <color name="BLUE">#0000FF</color>
+    <color name="BLUE">#0000ff</color>
     <color name="GREEN">#00FF00</color>
     <color name="YELLOW">#FFEB3B</color>
 </resources>
