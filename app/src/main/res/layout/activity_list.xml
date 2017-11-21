@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/root_list_activity"
-    tools:context="com.example.fatih.recyclerviewdemo.ListActivity">
+    tools:context="com.example.fatih.recyclerviewdemo.view.ListActivity">
 
     <android.support.v7.app.AlertController.RecyclerView
         android:id="@+id/rec_list_activity"
